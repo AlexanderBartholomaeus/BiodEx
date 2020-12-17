@@ -1,10 +1,10 @@
 # BiodEx - biodiversity explorer for exploration of microbial community biodiversity 
 
-BiodEx is a user-friendly tool for exploration of microbial community biodiversity. It is developed as a collaboration between the [GFZ](https://www.gfz-potsdam.de) (German Centre for Geosciences) - [GeoMicrobiology section/lab](https://www.gfz-potsdam.de/en/section/geomicrobiology/overview/), The [Hebrew University of Jerusalem](https://en.huji.ac.il/en) - (Aaron Kaplan lab)[https://kaplanlab.wixsite.com/kaplanlab] and the [UFZ](https://www.ufz.de/)(Centre for Environmental Research) - [Microbial Data Science group](https://www.ufz.de/index.php?de=43659).
+BiodEx is a user-friendly tool for exploration of microbial community biodiversity. It is developed as a collaboration between the [GFZ](https://www.gfz-potsdam.de) (German Centre for Geosciences) - [GeoMicrobiology section/lab](https://www.gfz-potsdam.de/en/section/geomicrobiology/overview/), The [Hebrew University of Jerusalem](https://en.huji.ac.il/en) - [Aaron Kaplan lab](https://kaplanlab.wixsite.com/kaplanlab) and the [UFZ](https://www.ufz.de/)(Centre for Environmental Research) - [Microbial Data Science group](https://www.ufz.de/index.php?de=43659).
 
 ### Link to the tool
 
-A test version of the tool using data from []() can be found here: http://shiny.raccoome.de/biodiversity/. Please note that this is a test version, we are working on the final version.
+A test version of the tool can be found here: http://shiny.raccoome.de/biodiversity/ with the password OTU. Please note that this is a test version, we are working on the final version.
 
 ### Publication
 
