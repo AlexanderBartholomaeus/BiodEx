@@ -4,7 +4,7 @@ BiodEx is a user-friendly tool for exploration of microbial community biodiversi
 
 ### Link to the tool
 
-A test version of the tool can be found here: http://shiny.raccoome.de/biodiversity/ with the password OTU. Please note that this is a test version, we are working on the final version.
+A test version of the tool can be found here: http://shiny.raccoome.de/biodiversity/ with the password `OTU`. Please note that this is a test version, we are working on the final version.
 
 ### Publication
 
