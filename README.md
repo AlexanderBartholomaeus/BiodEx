@@ -4,11 +4,11 @@ BiodEx is a user-friendly tool for exploration of microbial community biodiversi
 
 ### Link to the tool
 
-A test version of the tool using data from []() can be found here: http://shiny.raccoome.de/biodiversity/. Please note that this is a test version, we are working on the final version.
+A test version of the tool can be found here: http://shiny.raccoome.de/biodiversity/. Please note that this is a test version using data from an [associated project](#publication). We are working on the final version.
 
 ### Publication
 
-We are finishing the publication entitled: *Biodiversity Explorer (BiodEx) – a user-friendly tool for exploration of microbial community biodiversity*
+We are finishing the publication entitled: **Biodiversity Explorer (BiodEx) – a user-friendly tool for exploration of microbial community biodiversity**
 
 Assiciated repository/publication:
 
